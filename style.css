@@ -1,0 +1,28 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    background-color: rgb(141, 172, 79);
+    color: white;
+    border: none;
+}
+
+#weather {
+    margin-top: 20px;
+    background-color: rgb(239, 219, 108);
+    padding: 15px;
+    width: 300px;
+}
